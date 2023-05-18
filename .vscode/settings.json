@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "borderwidth",
+        "BYTESIZE",
+        "funcs",
+        "gabriola",
+        "gethostname",
+        "padx",
+        "pady",
+        "socs",
+        "yscrollcommand"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.formatting.provider": "black"
+}
